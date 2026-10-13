@@ -1,0 +1,18 @@
+# Data (download from Kaggle; see README)
+data/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS clutter
+.DS_Store
+._*
+Thumbs.db
